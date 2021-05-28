@@ -1,1 +1,1 @@
-# hexart_project_1
+HEXART PROJECT 1
